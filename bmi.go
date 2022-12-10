@@ -37,7 +37,7 @@ func main() {
 	// (그래서 반환값이 두 개임)
 	weight, _ := strconv.ParseFloat(weightInput, 64)
 	height, _ := strconv.ParseFloat(heightInput, 64)
-	
+
 	// Calculate the BMI (weight / (height * height))
 	// Output the calculated BMI
 }
